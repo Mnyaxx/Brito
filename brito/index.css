@@ -1,0 +1,12 @@
+body {
+        background-image:  url("app image 2.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+  
+}
+p{
+    font-size: 23px;
+    align-content:center;
+    justify-content: center;
+}
